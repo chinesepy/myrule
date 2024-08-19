@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+# 机场订阅域名
+# DOMAIN-SUFFIX,ngeztp.lol
+DOMAIN-SUFFIX,rewnat.xyz
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,chinesepy
