@@ -1,0 +1,16 @@
+# 内容：机场审计黑名单
+# 域名关键字匹配 （轮子，美国之音这些）
+DOMAIN-KEYWORD,dafahao
+DOMAIN-KEYWORD,minghui
+DOMAIN-KEYWORD,dongtaiwang
+DOMAIN-KEYWORD,epochtimes
+DOMAIN-KEYWORD,ntdtv
+DOMAIN-KEYWORD,falundafa
+DOMAIN-KEYWORD,wujieliulan
+DOMAIN-KEYWORD,zhengjian
+DOMAIN-KEYWORD,voachinese
+DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,dalailama
+
+# 域名后缀匹配（品葱）
+DOMAIN-SUFFIX,pincong.rocks
