@@ -11,5 +11,7 @@ DOMAIN-SUFFIX,rewnat.xyz
 # 域名关键字匹配
 DOMAIN-KEYWORD,chinesepy
 
-
+# istore域名
+DOMAIN-SUFFIX,linkease.com
+DOMAIN-SUFFIX,istoreos.com
 
