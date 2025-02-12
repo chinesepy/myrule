@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+    {
+        "domain_suffix": [
+          "linkease.com",
+          "istoreos.com",
+          "ngeztp.lol",
+          "rewnat.xyz"
+        ],
+        "domain_keyword": [
+          "chinesepy"
+          
+        ]
+    }
+  ]
+}
