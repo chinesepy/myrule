@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,rewnat.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,chinesepy
+DOMAIN-KEYWORD,mijia
+DOMAIN-KEYWORD,xiaomi
 
 # istore域名
 DOMAIN-SUFFIX,linkease.com
